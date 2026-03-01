@@ -27,22 +27,11 @@
 
 👨‍💻 Tech Stack:
 
-<img src="https://cdn.simpleicons.org/php" height="42" alt="PHP"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3); margin-right:8px;" />
-<img src="https://cdn.simpleicons.org/laravel" height="42" alt="Laravel"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3); margin-right:8px;" />
-<img src="https://cdn.simpleicons.org/inertia" height="42" alt="Inertia"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3); margin-right:8px;" />
-<img src="https://cdn.simpleicons.org/typescript" height="42" alt="TypeScript"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3); margin-right:8px;" />
-<img src="https://cdn.simpleicons.org/react" height="42" alt="React"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3); margin-right:8px;" />
-<img src="https://cdn.simpleicons.org/tailwindcss" height="42" alt="Tailwind CSS"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3); margin-right:8px;" />
-<img src="https://cdn.simpleicons.org/javascript" height="42" alt="JavaScript"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3); margin-right:8px;" />
-<img src="https://cdn.simpleicons.org/node.js" height="42" alt="Node.js"
-     style="padding:12px; border-radius:50%; border:1px solid rgba(128,128,128,0.3);" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel" height="48" />
+  <img src="https://cdn.simpleicons.org/inertia" height="48" style="margin:0 6px -4px 6px;" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vue,tailwind,js,nodejs" height="48" />
+</p>
 
 👋 Social:
 
