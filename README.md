@@ -7,8 +7,8 @@
 - 📗 MyPublication
 
   - [📗Scopus](https://www.scopus.com/authid/detail.uri?authorId=57421449500)
-  - [📗Sinta](https://sinta.kemdikbud.go.id/authors/profile/6655767)
-  - [📗Google Scholar](https://scholar.google.co.id/citations?user=1Th3oxkAAAAJ&hl=id)
+  - [📗Sinta](https://sinta.kemdiktisaintek.go.id/authors/profile/6655767)
+  - [📗Google Scholar](https://scholar.google.com/citations?hl=id&user=OX1ogLQAAAAJ)
   - [📗Web of Science](https://www.webofscience.com/wos/author/record/LQJ-9447-2024)
 
 - 📚 My Book [ISBN 978-623-161-425-4](https://isbn.perpusnas.go.id/bo-penerbit/penerbit/isbn/data/view-kdt/1071271)
